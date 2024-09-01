@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Lucas Horii!
 
-- 🔭 Hoje eu trabalho com suporte
 - 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
 
 - <a href="https://github.com/lucashoriisant">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashoriisant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
